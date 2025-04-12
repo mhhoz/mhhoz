@@ -1,5 +1,6 @@
+![4cc3d0976796b7363ded398bf259ecd1](https://github.com/user-attachments/assets/0e9c28c7-8617-40fd-b71b-f58253624a8e)
 
-<h1 align="center">![4cc3d0976796b7363ded398bf259ecd1](https://github.com/user-attachments/assets/0e9c28c7-8617-40fd-b71b-f58253624a8e)
+<h1 align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hello+There;I'm+Erythos" alt="Typing SVG" />
