@@ -11,3 +11,4 @@ I’m always looking for new ways to improve and push the boundaries of FiveM de
   <img src="https://skillicons.dev/icons?i=react,vue,js,lua,html,css,git" />
 </p>
 <hr>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8MQMEF)
