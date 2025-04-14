@@ -12,6 +12,4 @@ I’m always looking for new ways to improve and push the boundaries of FiveM de
 </p>
 <hr>
 
-![hopexx-Sharable-Profile)-Horizontal](https://github.com/user-attachments/assets/65ce6cb0-839b-4420-99b5-42ad22c9cf19)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8MQMEF)
