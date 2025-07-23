@@ -9,7 +9,7 @@ I’m always looking for new ways to improve and push the boundaries of FiveM de
 
 ### Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,lua,react,html,css,nodejs,git,mysql,bash,markdown" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mysql,git,bash,lua,markdown" />
 </p>
 
 <hr>
